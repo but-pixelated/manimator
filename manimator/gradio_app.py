@@ -88,12 +88,12 @@ description_md = """
 ## 🎬 manimator
 
 This tool helps you create visualizations of complex concepts using natural language or PDF papers:
+Give it a shot :D :::
 
 - **Text Prompt**: Describe the concept you want to visualize
 - **PDF Upload**: Upload a research paper to extract key visualizations
 
 ### Links
-- [Manim Documentation](https://docs.manim.community/)
 - [Project Repository](https://github.com/HyperCluster-Tech/manimator)
 """
 
